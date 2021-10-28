@@ -1,5 +1,7 @@
 # IAM - 身份识别与访问管理系统
 
+[![codebeat badge](https://codebeat.co/badges/58080120-e46b-4043-917b-0556062f2e4a)](https://codebeat.co/projects/github-com-jianyuecc-iam-master-0e887aac-9be8-49b0-982c-65e95bf84d4c)
+
 IAM = Identity and Access Management
 
 IAM 是一个基于 Go 语言开发的身份识别与访问管理系统，用于对资源访问进行授权。**最新稳定版本为：v1.0.8，建议基于稳定版安装测试**。
